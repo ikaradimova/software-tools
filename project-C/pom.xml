@@ -9,17 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>project-B</artifactId>
-    <name>project-B</name>
-    <packaging>war</packaging>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.example</groupId>
-            <artifactId>project-C</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <artifactId>project-C</artifactId>
+    <packaging>jar</packaging>
 
 
 </project>
