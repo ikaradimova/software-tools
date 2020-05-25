@@ -13,13 +13,5 @@
     <name>project-B</name>
     <packaging>war</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.example</groupId>
-            <artifactId>project-C</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-
 
 </project>
