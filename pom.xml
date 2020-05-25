@@ -19,6 +19,7 @@
 	<modules>
 		<module>project-B</module>
 		<module>project-C</module>
+		<module>project-D</module>
 	</modules>
 
 	<properties>
